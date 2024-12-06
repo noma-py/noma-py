@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I´m new to coding and github, just started to learn Python.
+Interested in learning more about Data Science and AI, and of course Python.
+looking forward to take part of the knowledge shared here, and someday contribute to help others.
 <!--
 **noma-py/noma-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
